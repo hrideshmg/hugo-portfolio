@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://hrideshmg.github.io/hugo-portfolio'
 languageCode = 'en-us'
 title = 'Portfolio'
 theme = "nightfall"
