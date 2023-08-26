@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Portfolio</title>
-    <link>http://example.org/posts/</link>
+    <link>https://hrideshmg.github.io/hugo-portfolio/posts/</link>
     <description>Recent content in Posts on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Aug 2023 09:40:01 +0530</lastBuildDate><atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 26 Aug 2023 09:40:01 +0530</lastBuildDate><atom:link href="https://hrideshmg.github.io/hugo-portfolio/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Process of making this website</title>
-      <link>http://example.org/posts/process/</link>
+      <link>https://hrideshmg.github.io/hugo-portfolio/posts/process/</link>
       <pubDate>Sat, 26 Aug 2023 09:40:01 +0530</pubDate>
       
-      <guid>http://example.org/posts/process/</guid>
+      <guid>https://hrideshmg.github.io/hugo-portfolio/posts/process/</guid>
       <description>&lt;p&gt;A brief explanation of my journey in making this website&lt;/p&gt;</description>
     </item>
     
