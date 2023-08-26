@@ -1,7 +1,7 @@
 ---
 title: "Process of making this website"
 date: 2023-08-26T09:40:01+05:30
-draft: true
+draft: false
 decription: "test"
 ---
 A brief explanation of my journey in making this website
