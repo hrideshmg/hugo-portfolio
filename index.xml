@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Aug 2023 09:40:01 +0530</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Process of making this website</title>
+      <link>http://example.org/posts/process/</link>
+      <pubDate>Sat, 26 Aug 2023 09:40:01 +0530</pubDate>
+      
+      <guid>http://example.org/posts/process/</guid>
+      <description>&lt;p&gt;A brief explanation of my journey in making this website&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Welcome to my portfolio, this is a practise website i created using Hugo, a static website generator, for the amFOSS Praveshan recruitment tasks</description>
+    </item>
+    
+  </channel>
+</rss>
